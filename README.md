@@ -46,6 +46,11 @@ NN  名词单数           SYM 符号            TO  to
 ## 运行程序
 
 ```
-python run.py  -s 1 -l 601 -e 
+python run.py  -s 1 -l 601
+python run.py  -s 2 -l 601 e
 ```
+
+
+
+
 
